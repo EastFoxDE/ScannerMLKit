@@ -1,5 +1,4 @@
-package com.eatme.scannermlkit
-
+package com.android.scannermlkit
 
 import android.Manifest
 import android.content.pm.PackageManager

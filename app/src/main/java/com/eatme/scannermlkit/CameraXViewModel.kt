@@ -1,4 +1,4 @@
-package com.eatme.scannermlkit
+package com.android.scannermlkit
 
 import android.app.Application
 import android.util.Log

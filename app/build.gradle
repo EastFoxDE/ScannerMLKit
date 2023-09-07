@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.eatme.scannermlkit'
+    namespace 'com.android.scannermlkit'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.eatme.scannermlkit"
+        applicationId "com.android.scannermlkit"
         minSdk 24
         targetSdk 33
         versionCode 1

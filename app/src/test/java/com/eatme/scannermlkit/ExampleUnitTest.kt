@@ -1,4 +1,4 @@
-package com.eatme.scannermlkit
+package com.android.scannermlkit
 
 import org.junit.Test
 
